@@ -1,0 +1,29 @@
+<div style="border-left:10px rgb(217,234,211) solid">
+這是程式的主要畫面<br>
+<img border="2" src="http://i.imgur.com/FukPMRJ.png"><br>
+左上是有修改過的檔案<br>
+修改內容會顯示在右上<br>
+<dl>
+<dt>rescan</dt>
+<dd>掃瞄資料夾的檔案變動</dd>
+<dt>stage changed</dt>
+<dd>左上檔案會全部移到下面工作區(也可以手動另外單一選擇)</dd>
+<dt>sign off</dt>
+<dd>(簽名)可跳過</dd>
+<dt>commit</dt>
+<dd>註解寫在右下 寫好按commit</dd>
+<dt>push</dt>
+<dd>寫好註解才可以上傳</dd>
+<dl>
+<br>
+一般來說都是依序由上往下按<br>
+git裡頭的push是上傳<br>
+按下後會出現上傳的小視窗<br>
+<img border="2" src="http://i.imgur.com/bVS40sk.png"><br>
+<br>
+按下push等待上傳完成<br>
+<img border="2" src="http://i.imgur.com/qqDWeXY.png"><br>
+
+
+</div>
+

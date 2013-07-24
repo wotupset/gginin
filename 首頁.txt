@@ -1,0 +1,30 @@
+<hr>
+<span style="background-color:rgb(255,0,0)"><font color="#ffffff">↗</font></span>
+<font size="4"><a href="http://git-scm.com/downloads">Git GUI 下載</a></font>
+<br>
+<img border="2" src="http://i.imgur.com/Ga4AjOF.png">
+<br>
+<br>
+下載 Git-1.8.3-preview20130601.exe (or更新版本)
+<br>
+<span style="font-size: 10pt;">安裝它</span><br>
+途中將右鍵項目 設定為reg (依個人喜好)<br>
+<img border="2" src="http://i.imgur.com/edfPs3L.png" style="font-size: 10pt;"><span style="font-size: 10pt;">&nbsp;</span><br>
+<br>
+之後的選項如果沒有特殊需求
+<br>
+就都選第一個
+<font color="#ff0000" size="4"><b style="background-color:rgb(0,255,255)">一直按下一步</b></font>
+安裝就好<br>
+
+<br>
+<br>
+安裝好之後
+<br>
+可以在開始功能表中找到捷徑
+<br>
+<img border="2" src="http://i.imgur.com/pRaA4c0.png"><br>
+<br>
+Git Bash 是純文字的命令列模式<br>
+Git GUI 是我們要使用的<br>
+<br>

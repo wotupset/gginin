@@ -1,0 +1,64 @@
+<div style="border-left:10px rgb(244,204,204) solid">
+第一次使用Git要先設定使用者資料(可以隨便打)<br>
+這部份資料會存在"C:\Documents and Settings\使用者名稱\.gitconfig"<br>
+只能用git bash輸入<br>
+git config --global user.email "your@email.com"<br>
+git config --global user.name "IRWINNER"<br>
+<img border="1" src="http://i.imgur.com/MMA3OU2.png"><br>
+輸入完後 就可以執行Git GUI<br>
+<br>
+第一次執行的Git GUI 畫面<br>
+<img border="1" src="http://i.imgur.com/dYdPyb6.png"><br>
+<dl>
+<dt>create new repository</dt>
+<dd>建立新repo</dd>
+<dt>clone existing repository</dt>
+<dd>複製已有的repo</dd>
+<dt>open exist repository</dt>
+<dd>開啟已有的repo</dd>
+</dl>
+如果之前有使用過<br>
+底下會顯示之前的工作歷史<br>
+
+<br>
+因為是第一次使用<br>
+所以選擇<span style="background-color:rgb(207,226,243)">create new repository</span><br>
+<br>
+選擇要上傳的資料夾<br>
+<img border="2" src="http://i.imgur.com/Au9du4s.png"><br>
+<br>
+第一次使用 先新增一個remote位置(用來上傳的位置)<br>
+<img border="2" src="http://i.imgur.com/lXradSK.png"><br>
+<br>
+輸入之前github提供的https連結<br>
+<img border="2" src="http://i.imgur.com/UP6Pmlu.png"><br>
+之後就會有一個名為haha的remote<br>
+<br>
+這是程式的主要畫面<br>
+<img border="2" src="http://i.imgur.com/FukPMRJ.png"><br>
+左上是有修改過的檔案<br>
+修改內容會顯示在右上<br>
+<dl>
+<dt>rescan</dt>
+<dd>掃瞄資料夾的檔案變動</dd>
+<dt>stage changed</dt>
+<dd>左上檔案會全部移到下面工作區(也可以手動另外單一選擇)</dd>
+<dt>sign off</dt>
+<dd>(簽名)可跳過</dd>
+<dt>commit</dt>
+<dd>註解寫在右下 寫好按commit</dd>
+<dt>push</dt>
+<dd>寫好註解才可以上傳</dd>
+<dl>
+<br>
+一般來說都是依序由上往下按<br>
+git裡頭的push是上傳<br>
+按下後會出現上傳的小視窗<br>
+<img border="2" src="http://i.imgur.com/bVS40sk.png"><br>
+<br>
+按下push等待上傳完成<br>
+<img border="2" src="http://i.imgur.com/qqDWeXY.png"><br>
+
+
+</div>
+

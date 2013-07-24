@@ -23,7 +23,12 @@ git裡頭的push是上傳<br>
 <br>
 按下push等待上傳完成<br>
 <img border="2" src="http://i.imgur.com/qqDWeXY.png"><br>
-
+<br>
+之後F5重整github就會有新資料了<br>
+<img border="2" src="http://i.imgur.com/G6akKW8.png"><br>
+<span style="background-color:rgb(255,0,0)"><font color="#ffffff">↗</font></span>
+<font size="4"><a href="https://github.com/wotupset/gginin" target="_blank">範例</a></font>
+<br>
 
 </div>
 

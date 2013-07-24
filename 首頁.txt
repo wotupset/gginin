@@ -7,9 +7,9 @@
 <br>
 下載 Git-1.8.3-preview20130601.exe (or更新版本)
 <br>
-<span style="font-size: 10pt;">安裝它</span><br>
+安裝它<br>
 途中將右鍵項目 設定為reg (依個人喜好)<br>
-<img border="2" src="http://i.imgur.com/edfPs3L.png" style="font-size: 10pt;"><span style="font-size: 10pt;">&nbsp;</span><br>
+<img border="2" src="http://i.imgur.com/edfPs3L.png"><br>
 <br>
 之後的選項如果沒有特殊需求
 <br>
